@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "datenv": "^0.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
