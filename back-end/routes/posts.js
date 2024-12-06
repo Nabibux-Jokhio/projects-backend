@@ -1,5 +1,5 @@
 import express from "express";
-import { posts } from "../Data/PostsData.js";
+import  posts  from "../Data/PostsData.js";
 
 const postsRoutes = express.Router()
 

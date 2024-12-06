@@ -1,4 +1,4 @@
-export const photo = [
+const photo = [
     {
       "albumId": 1,
       "id": 1,
@@ -35000,3 +35000,5 @@ export const photo = [
       "thumbnailUrl": "https://via.placeholder.com/150/6dd9cb"
     }
   ]
+
+  export default photo;

@@ -1,5 +1,5 @@
 import express from "express";
-import { users } from "../Data/usersData.js";
+import  users  from "../Data/usersData.js";
 
 
 

@@ -1,5 +1,5 @@
 import express from "express";
-import { album } from "../Data/AlbumData.js";
+import album  from "../Data/AlbumData.js";
 
 
 

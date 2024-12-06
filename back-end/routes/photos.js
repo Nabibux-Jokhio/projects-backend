@@ -1,5 +1,5 @@
 import express from "express";
-import { photo } from "../Data/photoData.js";
+import  photo  from "../Data/photoData.js";
 
 
 

@@ -1,4 +1,4 @@
-export const album =[
+const album =[
     {
       "userId": 1,
       "id": 1,
@@ -500,3 +500,5 @@ export const album =[
       "title": "enim repellat iste"
     }
   ]
+
+  export default album;
